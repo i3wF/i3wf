@@ -22,9 +22,12 @@
   
 <a href="https://twitter.com/q_bx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="q_bx_" height="30" width="40" /></a>
   
-<a href="https://instagram.com/b7z0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nozmay" height="30" width="40" /></a>
+<a href="https://instagram.com/b7z0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b7z0" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/@3wf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3wf" height="30" width="40" /></a>
+</p>
+
+<a href="" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F800px-Telegram_2019_Logo.svg.png&tbnid=lgMJ_gr7vH8oeM&vet=12ahUKEwjw7_j_kN2DAxWLAfsDHWVgDsoQMygAegQIARBn..i&imgrefurl=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D8%25AA%25D9%258A%25D9%2584%25D9%258A%25D8%25AC%25D8%25B1%25D8%25A7%25D9%2585&docid=sUtseb5G-f6biM&w=800&h=800&q=telegram&hl=ar&client=opera-gx&ved=2ahUKEwjw7_j_kN2DAxWLAfsDHWVgDsoQMygAegQIARBn)" alt="ii3wF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

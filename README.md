@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/@3wf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3wf" height="30" width="40" /></a>
 </p>
 
-<a href="" target="blank"><img align="center" src="https://github.com/png2378/telegram-icon-updater/blob/master/icons/icomute_22_0.png?raw=true" alt="ii3wF" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/michaelkisiel/qtg-icons/raw/master/qtg-icon3.png" alt="ii3wF" height="35" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
